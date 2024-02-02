@@ -1,0 +1,14 @@
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\bin\Debug\net6.0\RedAlert.exe
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\bin\Debug\net6.0\RedAlert.deps.json
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\bin\Debug\net6.0\RedAlert.runtimeconfig.json
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\bin\Debug\net6.0\RedAlert.dll
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\bin\Debug\net6.0\RedAlert.pdb
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\obj\Debug\net6.0\RedAlert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\obj\Debug\net6.0\RedAlert.AssemblyInfoInputs.cache
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\obj\Debug\net6.0\RedAlert.AssemblyInfo.cs
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\obj\Debug\net6.0\RedAlert.csproj.CoreCompileInputs.cache
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\obj\Debug\net6.0\RedAlert.dll
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\obj\Debug\net6.0\refint\RedAlert.dll
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\obj\Debug\net6.0\RedAlert.pdb
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\obj\Debug\net6.0\RedAlert.genruntimeconfig.cache
+C:\Users\NH\OneDrive - University of Saint Joseph\Desktop\CS\RedAlert\RedAlert\obj\Debug\net6.0\ref\RedAlert.dll
